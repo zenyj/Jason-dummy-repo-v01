@@ -4,7 +4,7 @@ Hi
 
 How
 are
-your
+you
 ?
 
 how
