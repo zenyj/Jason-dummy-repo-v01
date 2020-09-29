@@ -1,6 +1,13 @@
 # Jason-dummy-repo-v01
-Hello
+
 Hi
-How are you
-hows your day
-Hey
+How
+are
+you
+?
+
+how
+is 
+your
+day
+?
